@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-This is Pathfinding Visualizer tool build by Clement Hailescu.  The tool helps to visualize pathfinding algorithm in action. You can access it here (use Google Chrome!): https://jonnohuang.github.io/Pathfinding-Visualizer/
+This is Pathfinding Visualizer tool build by Clement Hailescu.  The tool helps to visualize pathfinding algorithm in action. You can access it here (use Google Chrome!): https://jonnohuang.github.io/pathfinding-visualizer/
 
 ## Meet the Algorithms
 
